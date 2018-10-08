@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "azure-sb": "^0.10.6"
+  }
+}
